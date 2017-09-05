@@ -1,3 +1,6 @@
 # Hello-socket-io
 
-Desarrollo de Chat sencillo usando NodeJS + VueJS + Socket.io 
+Developing a simply chat using NodeJS + VueJS + Socket.io 
+
+# Install
+`cd projectname/` and `npm install`
